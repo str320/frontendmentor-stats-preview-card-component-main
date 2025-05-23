@@ -17,10 +17,10 @@ Organized with utility classes and BEM-style naming
 🛠️ Built With
 
 HTML5
-CSS3 (Flexbox, Grid, Custom Properties)
-Responsive Design Principles
-Utility-first structure for scalable layout
-Google Fonts: Inter and Lexend Deca
+- CSS3 (Flexbox, Grid, Custom Properties)
+- Responsive Design Principles
+- Utility-first structure for scalable layout
+- Google Fonts: Inter and Lexend Deca
 
 🎨 What I Learned
 
